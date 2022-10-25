@@ -1,6 +1,7 @@
 ## ATM Withdrawl Problem
-###An ATM dispenses exactly Rs. 5000 per withdrawal using 100, 200 and 500 rupee notes. The ATM requires every customer to give her preference for one of the three
-###denominations of notes. It then dispenses notes such that the number of notes of the customer’s preferred denomination exceeds the total number of notes of other ###denominations dispensed to her.
+### An ATM dispenses exactly Rs. 5000 per withdrawal using 100, 200 and 500 rupee notes. The ATM requires every customer to give her preference for one of the three
+### denominations of notes. It then dispenses notes such that the number of notes of the customer’s preferred denomination exceeds the total number of notes of other
+### denominations dispensed to her.
 
 Example:<br />
 for withdrawl of 2000<br />
